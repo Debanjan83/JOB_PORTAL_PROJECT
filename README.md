@@ -1,0 +1,1 @@
+It is an Advanced Java Project based on Job Portal. It is done using JSP Pages as well as it contains DAO, DTO, Servlet JAVA Classes. The Database connected to it is MySql. The Admin part containes menus such as Home, Add Company, Delete Company, Update Company, Add Job, Delete Job, Listed Jobs. The Client part contains menus such as Home, Apply Job, Search Job, My Applicaton.
